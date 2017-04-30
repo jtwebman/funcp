@@ -1,0 +1,31 @@
+{
+  "name": "funcp",
+  "version": "0.1.0",
+  "description": "Small immutable functional programming library for JavaScript.",
+  "main": "funcp.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwebman/funcp.git"
+  },
+  "keywords": [
+    "functional",
+    "pure",
+    "fp",
+    "immutable"
+  ],
+  "author": "JT Turner <jtwebman@gmail.com> (https://jtwebman.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwebman/funcp/issues"
+  },
+  "homepage": "https://github.com/jtwebman/funcp#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "mocha": "^3.3.0"
+  }
+}
