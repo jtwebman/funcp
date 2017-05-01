@@ -1,6 +1,6 @@
 {
   "name": "funcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Small immutable functional programming library for JavaScript.",
   "main": "funcp.js",
   "scripts": {

@@ -1,9 +1,10 @@
 'use strict';
 
 const curry = require('./curry');
-const curryReverse = require('./curry-reverse');
+const fold = require('./fold');
 
 module.exports = {
   curry,
-  curryReverse
+  fold,
+  reduce: fold
 };
