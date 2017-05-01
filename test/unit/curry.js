@@ -1,7 +1,7 @@
 'use strict';
 
 const assert = require('chai').assert;
-const curry = require('../curry');
+const curry = require('../../src/curry');
 
 const add = curry((x, y) => {
   return x + y;

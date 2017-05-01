@@ -1,7 +1,7 @@
 'use strict';
 
 const assert = require('chai').assert;
-const fold = require('../fold');
+const fold = require('../../src/fold');
 
 describe('fold', () => {
   it('works returning one value', () => {
