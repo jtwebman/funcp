@@ -15,3 +15,6 @@ rules:
   comma-dangle:
     - error
     - never
+  max-len:
+    - error
+    - 120
